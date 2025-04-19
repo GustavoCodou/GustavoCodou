@@ -1,8 +1,8 @@
 ### Hello, I'm Gustavo Guimarães 👋
 
-📚 Studying Computer Engineering (UEMG)
-🎓 Technician in Systems Development
-💡 Always striving to grow as a professional and as a person
+📚 Studying Computer Engineering (UEMG)  
+🎓 Technician in Systems Development  
+💡 Always striving to grow as a professional and as a person  
 
 [![Linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-guimar%C3%A3es-de-sousa-0ba197301/) [![Portfolio](https://img.shields.io/badge/💼%20Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://meusitecompleto.com/portfolio)
 

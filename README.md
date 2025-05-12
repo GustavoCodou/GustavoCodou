@@ -1,7 +1,7 @@
 # Hello, I'm Gustavo Guimarães 👋
 
 📚 Studying Computer Engineering (UEMG)  
-🎓 Technician in Systems Analysis and Development
+🎓 Technician in Systems Analysis and Development  
 💡 Always striving to grow as a professional and as a person  
 
 ## 🚀 More About Me

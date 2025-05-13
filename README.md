@@ -3,6 +3,7 @@
 📚 Studying Computer Engineering (UEMG)  
 🎓 Technician in Systems Analysis and Development  
 💡 Always striving to grow as a professional and as a person  
+<!-- Depois eu coloco o meu tempo de experiencia aqui tb -->
 
 ## 🚀 More About Me
 

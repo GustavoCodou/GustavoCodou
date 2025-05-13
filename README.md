@@ -6,7 +6,8 @@
 
 ## 🚀 More About Me
 
-[![Portfolio](https://img.shields.io/badge/💼%20Portfolio-000?style=for-the-badge&logo=&logoColor=white)](https://meusitecompleto.com/portfolio)     
+[![Portfolio](https://img.shields.io/badge/💼%20Portfolio-000?style=for-the-badge&logo=&logoColor=white)](https://meusitecompleto.com/portfolio)    
+
 Hi! I'm Gustavo — a web development enthusiast passionate about technology and smart digital solutions. I'm currently focused on learning PHP and strengthening my skills in front-end and back-end development, while also gaining hands-on experience through personal projects and studies.
 
 ## 🛠️ Technologies

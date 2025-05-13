@@ -22,6 +22,6 @@ Here are some of the technologies I work with and am currently learning:
 ## 📩 Let's Connect?  
 Whether you want to share ideas, collaborate, or just chat, feel free to reach out to me:
 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gustavoguimaraescode@gmail.com) &nbsp; 
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gustavoguimaraescode@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gustavocodou/)
 

@@ -30,6 +30,6 @@ Here are some of the technologies I have some experience with:
 ## 📩 Let's Connect?  
 Whether you want to share ideas, collaborate, or just chat, feel free to reach out to me:
 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gustavoguimaraescode@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gustavocodou/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gustavoguimaraescode@gmail.com)
 

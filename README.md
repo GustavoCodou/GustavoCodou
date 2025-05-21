@@ -11,7 +11,7 @@
 
 ## 🚀 More About Me
 
-Hi! I'm Gustavo — a web developer currently focused on learning PHP and strengthening my skills in front-end and back-end development, while also gaining hands-on experience through personal projects and studies
+Hi! I'm Gustavo — a web developer currently focused on learning PHP and strengthening my skills in front-end and back-end development, while also gaining hands-on experience through personal projects and studies.
 
 ## 🛠️ Technologies   
 

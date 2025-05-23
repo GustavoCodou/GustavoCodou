@@ -1,8 +1,8 @@
 # Hello, I'm Gustavo Guimarães 👋
 
-📚 Studying Computer Engineering (UEMG)
-🎓 Technician in Systems Analysis and Development
-💻 Full Stack Developer with a strong interest in PHP
+📚 Studying Computer Engineering (UEMG)  
+🎓 Technician in Systems Analysis and Development  
+💻 Full Stack Developer with a strong interest in PHP  
 💡 Always striving to grow as a professional and as a person
 <!-- Depois eu coloco o meu tempo de experiencia aqui tb -->
 

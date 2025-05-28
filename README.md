@@ -6,6 +6,7 @@
 - 💡 Always striving to grow as a professional and as a person
 <!-- Depois eu coloco o meu tempo de experiencia aqui tb -->
 
+<!-- Depois eu talvez remova o titulo e deixo só o botão do portfolio -->
 ### Check out my portfolio (invalid for now):
 
 [![Portfolio](https://img.shields.io/badge/💼%20Portfolio-000?style=for-the-badge&logo=&logoColor=white)](https://meusitecompleto.com/portfolio) 

@@ -1,5 +1,3 @@
-<img width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=0A10FFFF&height=80"/>
-
 # Hello, I'm Gustavo Guimarães 👋
 
 - 📚 Studying Computer Engineering (UEMG)  
@@ -12,7 +10,7 @@
 
 <div align="center">
   
-### Check out my portfolio (invalid for now):
+## Check out my portfolio (invalid for now):
 
 [![Portfolio](https://img.shields.io/badge/💼%20Portfolio-000?style=for-the-badge&logo=&logoColor=white)](https://meusitecompleto.com/portfolio) 
 
@@ -47,5 +45,4 @@ Whether you want to share ideas, collaborate, or just chat, feel free to reach o
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gustavoguimaraescode@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gustavocodou/)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A10FFFF&height=80&section=footer"/>
 

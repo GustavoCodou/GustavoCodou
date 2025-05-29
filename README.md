@@ -5,6 +5,7 @@
 - 💻 Full Stack Developer with a strong interest in PHP  
 - 💡 Always striving to grow as a professional and as a person
 <!-- Depois eu coloco o meu tempo de experiencia aqui tb -->
+<!-- https://meusitecompleto.com/portfolio Depois eu crio um link de portfolio e coloco em baixo do linkedin ali -->
 
 <!-- Depois eu talvez remova o titulo e deixo só o botão do portfolio -->
 

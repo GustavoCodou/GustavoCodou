@@ -8,15 +8,6 @@
 
 <!-- Depois eu talvez remova o titulo e deixo só o botão do portfolio -->
 
-<div align="center">
-  
-## Check out my portfolio (invalid for now):
-
-[![Portfolio](https://img.shields.io/badge/💼%20Portfolio-000?style=for-the-badge&logo=&logoColor=white)](https://meusitecompleto.com/portfolio) 
-
-<br>
-</div>
-
 ## 🚀 More About Me
 
 Hi! I'm Gustavo — a web developer currently focused on learning PHP and strengthening my skills in front-end and back-end development, while also gaining hands-on experience through personal projects and studies.
